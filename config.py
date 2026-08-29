@@ -7,8 +7,7 @@
 # =====================================================
 
 # Токен Telegram бота (получить у @BotFather)
-BOT_TOKEN = ""
-8731889904:AAH9bjm07c4LNos0PbZV34d3cm7Tfg78d5U
+BOT_TOKEN = "8731889904:AAH9bjm07c4LNos0PbZV34d3cm7Tfg78d5U"
 # Токен Crypto Pay (получить у @CryptoBot)
 CRYPTO_BOT_TOKEN = "627629:AA3qDjZ8zHNuOJrETVPCKq7yFFPPvD3omqx"
 
