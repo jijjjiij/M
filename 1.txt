@@ -1,0 +1,355 @@
+{
+  "outbounds": [
+    {
+      "tag": "🇩🇪 Германия ⚡",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "f627364b-6367-4e9f-93ba-f8e61dd5547b",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇪🇺🇺🇦 Автоматически",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "91bcc0d7-fac0-4011-8a21-034ffb62614f",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇨🇦 Канада",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "47bb69b4-d81e-4f84-ac7a-1e9231d02289",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱 Нидерланды",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "afed82a3-3bba-4f6d-ab06-d709956f4aec",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇷🇺 Россия",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "b7d94060-64f8-45f8-9705-68c648a5972e",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇺🇦 Швеция",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "9796dc02-cc4e-437b-bd9f-57e84675fbde",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇨🇦 Канада 2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "a9629fc9-c408-40a5-aa45-a07eed312441",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱💰 Warp 1",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "0cf2450c-6c72-4d47-aabb-ac401ba6c511",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱💰 Warp 2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "d5f928e7-8e51-4d36-af75-b0df363c1958",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱💰 Warp 3",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "26387346-d40a-4539-b3a4-e3ab2409d540",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱 Нидерланды 2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "60055e1a-5d46-4133-a9c7-619f79ef3ba8",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱💰 Warp 4",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "ddd6fbc4-9ae1-44f3-be5b-05da3f61a161",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇳🇱💰 Warp 5",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "195.123.6.54",
+          "port": 8443,
+          "users": [{
+            "id": "264e88bb-3454-4238-b0dd-43fc7e49c354",
+            "encryption": "none",
+            "flow": "xtls-rprx-vision"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "loxnetus.eu.cc",
+          "fingerprint": "chrome",
+          "publicKey": "mHPPaQ3EyMWRuOJOUjPp3y12efNcUzxo3oYSwF31tkE",
+          "shortId": "8722be48c082104c"
+        }
+      }
+    },
+    {
+      "tag": "🇩🇪 Германия 2",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [{
+          "address": "45.88.12.110",
+          "port": 2083,
+          "users": [{
+            "id": "d017fdc8-7d82-4e77-83f3-83e749d7d9e7",
+            "encryption": "none"
+          }]
+        }]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "mol.ultimagamest.com",
+          "fingerprint": "chrome",
+          "alpn": ["http/1.1"]
+        },
+        "wsSettings": {
+          "path": "/vless-ws"
+        }
+      }
+    }
+  ]
+}
